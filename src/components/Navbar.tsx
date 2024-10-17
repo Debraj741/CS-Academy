@@ -22,6 +22,7 @@ function Navbar({ className }: { className?: string }) {
         <MenuItem setActive={setActive} active={active} item = "Our Courses">
         <div className="flex flex-col gap-6 hover:text-blue-500">
         <HoveredLink href="/course">All Courses</HoveredLink>
+        <HoveredLink href="/course">Fullstack WebDev</HoveredLink>
         <HoveredLink href="/course">Advance DSA</HoveredLink>
         <HoveredLink href="/course">DBMS (SQL+MongoDB)</HoveredLink>
         <HoveredLink href="/course">OS with Linux</HoveredLink>
