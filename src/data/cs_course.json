@@ -27,7 +27,7 @@
       "description": "Learn the core concepts of databases, SQL queries, and relational database design.",
       "price": 99.99,
       "instructor": "Alice Johnson",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/dbms.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "description": "Understand the fundamentals of operating systems and computer networks for real-world applications.",
       "price": 129.99,
       "instructor": "Michael Lee",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/os-networking.jpg"
     },
     {
