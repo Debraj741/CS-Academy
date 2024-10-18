@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Master both frontend and backend development to become a full-stack developer using MERN stack.",
+      "price": 199.99,
+      "instructor": "Debraj Kundu",
+      "isFeatured": true,
+      "image": "/courses/fullstack.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Data Structures and Algorithms",
+      "slug": "advanced-dsa",
+      "description": "Dive deep into complex algorithms and data structures, preparing for competitive programming and job interviews.",
+      "price": 149.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/dsa.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Database Management Systems (DBMS)",
+      "slug": "dbms",
+      "description": "Learn the core concepts of databases, SQL queries, and relational database design.",
+      "price": 99.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": false,
+      "image": "/courses/dbms.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Operating Systems & Networking",
+      "slug": "os-networking",
+      "description": "Understand the fundamentals of operating systems and computer networks for real-world applications.",
+      "price": 129.99,
+      "instructor": "Michael Lee",
+      "isFeatured": false,
+      "image": "/courses/os-networking.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Programming with Python",
+      "slug": "intro-python",
+      "description": "Start your programming journey with Python, learning basic syntax, loops, and functions.",
+      "price": 79.99,
+      "instructor": "Sarah Brown",
+      "isFeatured": true,
+      "image": "/courses/python.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Data Science and Machine Learning",
+      "slug": "data-science-ml",
+      "description": "Explore data science concepts and get hands-on with machine learning models using Python.",
+      "price": 249.99,
+      "instructor": "David Green",
+      "isFeatured": true,
+      "image": "/courses/data-science.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Essentials",
+      "slug": "cybersecurity-essentials",
+      "description": "Learn about securing systems, networks, and applications against cyber threats.",
+      "price": 179.99,
+      "instructor": "Emily Clark",
+      "isFeatured": false,
+      "image": "/courses/cybersecurity.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Artificial Intelligence Fundamentals",
+      "slug": "ai-fundamentals",
+      "description": "Understand the basics of AI, including neural networks, natural language processing, and computer vision.",
+      "price": 199.99,
+      "instructor": "Robert Taylor",
+      "isFeatured": true,
+      "image": "/courses/ai.jpg"
+    }
+  ]
+}
