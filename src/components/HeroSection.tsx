@@ -15,7 +15,7 @@ function HeroSection() {
       <div className='text-center p-4 w-full z-10'>
       <h1
       className='mt-20 pb-7 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-green-200 to-green-700'
-      >Unlock Your Coding Potential</h1>
+      >Unlock Your Coding Potential..</h1>
       <p
     className='mt-5 font-normal text-base md:text-lg text-gray-300 max-w-lg mx-auto'
       >We offers a complete range of computer science courses, from beginner to advanced levels. Learn programming, data structures, web development, and more through a structured, hands-on approach.</p>
