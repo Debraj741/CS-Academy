@@ -10,7 +10,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
       <Image
-        src="https://plus.unsplash.com/premium_photo-1678565202049-9e37b2da8060?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww"
+        src="/courses/python.jpg"
         width={300}
         height={300}
         className="h-full w-full object-cover"
