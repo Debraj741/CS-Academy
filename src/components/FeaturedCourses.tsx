@@ -2,7 +2,6 @@
 import Link from "next/link"
 import courseData from "../data/cs_course.json"
 import { BackgroundGradient } from "./ui/background-gradient"
-import Image from "next/image"
 
 interface Course{
     id: number,
